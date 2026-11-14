@@ -4,7 +4,7 @@
 **Unit:** Unit 1 – Mathematical Foundations, Data Engineering & Feature Engineering  
 **Dataset:** Olist Brazilian E-Commerce Public Dataset (`olist_orders_abt.csv`)  
 **Instructor:** Sharad Laad  
-**Student Name:** Priyanshi  
+**Student Name:** Priyanshi Mali    
 **Lab Number:** 3  
 **Lab Title:** Data Quality Assessment, Exploratory Data Analysis, and Preprocessing  
 
